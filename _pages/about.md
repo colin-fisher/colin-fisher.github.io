@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "Bio and About Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Bio and About Website**
 
 My name is Colin....
 
